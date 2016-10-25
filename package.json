@@ -44,6 +44,7 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
+    "json-bigint": "^0.2.1",
     "raw-body": "^2.1.4",
     "type-is": "^1.6.9"
   }
