@@ -94,7 +94,7 @@ Encoding on the raw input stream. Defaults to `utf8`.
 
 Strict demands on the JSON. Defaults to `true`.
 
-### reviver ```function```
+~~### reviver ```function```~~
 
-Reviver used during `JSON.parse`.
+~~Reviver used during `JSON.parse`.~~
 
