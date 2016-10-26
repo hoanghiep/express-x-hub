@@ -1,4 +1,4 @@
-Express X-Hub
+Express X-Hub, now with JSONbigint
 =======================
 
 [![Build Status](https://travis-ci.org/alexcurtis/express-x-hub.svg?branch=master)](https://travis-ci.org/alexcurtis/express-x-hub) [![Coverage Status](https://img.shields.io/coveralls/alexcurtis/express-x-hub.svg)](https://coveralls.io/r/alexcurtis/express-x-hub?branch=master)
